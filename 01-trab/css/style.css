@@ -1,0 +1,292 @@
+/* USE FONT WEIGHT P/ SELECIONAR Light 200, Light 200 Italic, Bold 700, Normal 400 ou Normal 400 Italic */
+
+body {
+	font-family: "SourceSansPro", 'Source Sans Pro', sans-serif;
+	font-weight: 400;
+	width: 1300px;
+	margin: 0 auto;
+}
+
+header{
+	position: relative;
+}
+
+header a{
+	text-decoration: none;
+	color: gray;
+}
+
+.container {
+	margin: 0 auto;
+	width: 960px;
+}
+
+.cabeca {
+	margin: 20px auto;
+}
+
+.hello-section {
+	padding-top: 120px;	
+	background-image: url(../img/bg_b.png);
+	background-repeat: no-repeat;
+	width: 1300px;	
+	height: 290px;
+	color: white;
+	font-size: 24px;	
+	margin: 0 auto;
+	position: relative;
+}
+
+.phrase-section {	
+	font-size: 35px;
+	padding-top: 60px;
+	margin: 0 auto;
+	font-style: oblique;
+	font-weight: lighter;
+	line-height: 1.2;	
+	height: 200px;
+	background-color: ghostwhite;
+}
+
+.negrito {
+	font-weight: bold;
+}
+
+.hello {
+	font-weight: bold;
+	font-size: 100px;
+}
+
+.desc {
+	font-size: 36px;
+	font-weight: lighter;
+}
+
+p {
+	text-align: center;
+}
+
+.options ul li {
+	display: inline;
+	margin-left: 30px;
+}
+
+.options {
+	position: absolute;
+	right: 0;
+	top: 15px;	
+}
+
+.options a:hover {
+	color: #0073e6;
+}
+
+.options button a {
+	color: white;
+}
+
+.arrow {
+	background-color: black;
+	border: none;
+	height: 70px;
+	width: 70px;
+	position: absolute;
+}
+
+.arrow_left {
+	left: 0;
+	top: 175px;
+}
+
+.arrow_right {
+	right: 0;
+	top: 175px;
+}
+
+#logo {
+	width: 100px;
+}
+
+.login {
+	border-radius: 20px;
+	border: none;
+	background-color: black;
+	background-size: 50px;
+	cursor: pointer;
+	width: 80px;
+	height: 25px;
+}
+
+.middle {
+	position: relative;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.meio {
+	width: 100%;
+	background-color: ghostwhite;
+	border-width: thin;
+	border-style: solid;
+	border-color: #D3D3D3;
+	border-left: none;
+	border-right: none;
+}
+
+.baixo {
+	width: 100%;
+	background-color: ghostwhite;	
+}
+
+.f01 {
+	position: absolute;
+	top: 60px;
+	left: 0;
+	clear: left;
+	/*border-width: thin;
+	border-style: solid;
+	border-color: black;*/
+}
+
+.f02 {
+	position: relative;
+	margin: 0 auto; 
+	/*border-width: thin;
+	border-style: solid;
+	border-color: black;*/	
+}
+
+.f03 {
+	position: absolute;
+	top: 60px;
+	right: 0;
+	clear: right;
+	/*border-width: thin;
+	border-style: solid;
+	border-color: black;*/
+}
+
+.text-feature {
+	font-size: 15px;
+	text-align: left;
+	margin: 20px 0;
+	line-height: 1.5;
+
+}
+
+.feature {
+	width: 250px;		
+}
+
+.tam-feature {
+	font-size: 30px;
+}
+
+.img-center {	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+}
+
+.bottom {
+	position: relative;
+	height: 450px;
+	padding-top: 100px;
+	background-color: ghostwhite;
+}
+
+.img-iphone {
+	position: absolute;
+	clear: right;
+	top: 80px;
+	right: 0;
+}
+
+.text-iphone {
+	width: 490px;
+	position: absolute;
+	clear: left;
+	left: 0;	
+}
+
+
+.title01 {
+	text-align: left;
+	margin: 35px 0; 
+}
+
+.text01 {
+	text-align: left;
+	font-size: 17px;
+	line-height: 1.5;
+}
+
+.ceo {
+	margin-top: 15px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.learn {
+	margin: 30px 110px;
+	width: 240px;
+}
+
+.learn ul {	
+	background-color: black;	
+	border-radius: 25px;
+	padding: 10px 0 10px 0;
+}
+
+.learn ul li {	
+	display: inline;	
+	margin-left: 50px;	
+}
+
+.textito {
+	font-size: 24px;
+	color: white;
+}
+
+.setinha {	
+	width: 20px;
+	height: 20px;
+}
+
+.rodape {
+	position: relative;
+	height: 350px;
+	width: 1300px;
+	box-shadow: inset 0 0 40px black;
+	background-image: url(../img/bg_b.png);
+	background-repeat: no-repeat;
+}
+
+.options_rodape ul {
+	padding-top: 75px;
+}
+
+.options_rodape ul li {
+	display: inline-block;
+	margin-right: 80px;
+	color: #A9A9A9;	
+}
+
+.titulos {
+	color: white;
+}
+
+.options_rodape p{
+	text-align: left;
+	font-size: 17px;
+	line-height: 1.8;
+	
+}
+
+.copyright {
+	position: absolute;
+	bottom: 20px;
+	left: 160px;
+	color: rgba(255,255,255, .2);
+}

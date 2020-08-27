@@ -1,0 +1,421 @@
+html{
+    overflow-x: hidden;
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;    
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #F7F9FD;
+    position: relative;
+    overflow-x: hidden;
+    /*width: 1440px;*/
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;    
+    text-align: center;  
+    font-size: 24px;
+    line-height: 1.5;    
+}
+
+.meio p {    
+    color: #808D99;    
+}
+
+
+
+/*============================*/
+/* ---- CSS PARA MOBILE ---- */
+/*============================*/
+
+
+
+@media (max-width: 375px) {
+    .container {
+        max-width: 90%;        
+    }
+    
+    .gradiente {
+        position: absolute;
+        right: -475px;
+        top: -150px;
+        border-radius: 12%;
+        transform: rotate(-30deg);
+        background: linear-gradient(#FF52BF, #9A52FF);
+        width: 600px;
+        height: 600px;
+        z-index: 0;
+    }
+    
+    .branquinha {
+        position: absolute;
+        right: 0px;
+        top: 268px;
+        border-radius: 12%;
+        transform: rotate(-30deg);
+        background: white;
+        width: 370px;
+        height: 460px;
+        z-index: 0;
+    }
+    
+    .logo {
+        width: 8em;
+        height: auto;
+        margin-top: 40px;
+        margin-left: 20px;
+    }
+    
+    .img1, 
+    .img2 {
+        width: 100%;
+        height: auto;    
+    }
+    
+    .img1 {
+        position: relative;
+        margin: 20px auto; 
+    }
+    
+    .img2 {
+        margin: 200px auto 80px auto; 
+    }
+    
+    .topo button {
+        background-color: white;
+        font-family: 'Open Sans', sans-serif;
+        width: 100px;
+        font-size: 12px;
+        color: purple;
+    }    
+
+    .section-2 h1,
+    .section-1 h1{    
+        margin-top: 35px;
+        margin-bottom: 15px;
+    }
+    
+    .section-2 h1 {
+        font-size: 20px;
+    }
+        
+    .section-2 p {
+        font-size: 14px;
+    }
+    
+    .section-3 {
+        height: 150px;
+        width: 100%;
+        box-shadow: 0px 0px 10px #808D99;
+        margin: 100px 0;
+        background-color: white;
+    }
+    
+    .section-3 p {
+        font-size: 11px;
+    }
+    
+    .meio button {
+        width: 58%;
+        height: 40px;
+        font-size: 11px;
+    }
+    
+    .botao-1{
+        margin-top: 30px; 
+    }
+    
+    .section-3 h1 {
+        font-size: 16px;
+    }
+    
+    .content-3 {
+        width: 90%;
+    }
+    
+    header button {
+        color: #9A52FF;
+        position: absolute;
+        right: 20px;
+        margin-top: 35px;
+        font-family: 'Open Sans', sans-serif;    
+        box-shadow: 0 0px 4px #9A52FF;
+        border: none;    
+    }
+    
+    .meio button,
+    .rodape button{
+        background-color: #FF52BF;
+        border: none;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        box-shadow: 0 0px 4px #FF52BF;
+    }
+    
+    .meio {
+        margin: 50px auto;
+        position: relative;
+    }
+
+    .meio p {
+        text-align: center;
+    }
+        
+    .testeando input,
+    .testeando button {
+        width: 100%;
+        height: 50px;
+        margin: 8px 0;
+    }
+    
+    .subscribe {
+        font-size: 20px;
+        text-transform: uppercase;
+        font-weight: 700;
+        padding-top: 20px;
+    }
+    
+    .rodape ul li {
+        line-height: 3;
+    }
+    
+    .cpright {
+        font-size: 10px;
+        padding: 20px;
+        margin-bottom: 0;
+    }
+    
+    .substext {
+        font-size: 13.5px;
+    }
+    
+    .img-rdp {
+        padding-top: 50px;
+        height: 130px;
+    }
+    
+    .img-rodape {    
+        margin: auto;
+        width: 55%;
+    }
+    
+    .lista {
+        margin: 35px 0; 
+    }
+
+    .rodape {
+        background-color: #00252E;
+        color: white;
+    }
+    
+    .social-media {
+        margin: 80px auto 0 auto;
+    }
+
+    .rodape p {
+        text-align: center;
+    }
+
+    ion-icon {
+        font-size: 32px;
+        padding-left: 10px;
+    }
+}
+
+
+
+/*====================================*/
+/* -------- CSS PARA DESKTOP -------- */
+/*====================================*/
+
+
+
+@media (min-width: 376px) {
+
+    .gradiente {
+        position: absolute;
+        right: -372px;
+        top: -534px;
+        border-radius: 200px;
+        transform: rotate(-42deg);
+        background: linear-gradient(#FF52BF, #9A52FF);
+        width: 70%;
+        height: 60%;
+        z-index: 0;
+    }
+    
+    .branquinha {
+        position: absolute;
+        right: 0px;
+        top: 268px;
+        border-radius: 12%;
+        transform: rotate(-30deg);
+        background: white;
+        width: 370px;
+        height: 460px;
+        z-index: -1;
+    }
+
+    .container {
+        max-width: 1440px;
+        width: 90%;
+    }
+
+    .logo {
+        width: 10em;
+        height: auto;
+        margin-top: 4em;
+        margin-left: 4em;
+        z-index: 1;
+        position: relative;
+    }
+
+    .topo button {
+        background-color: white;
+    }
+    
+    .img1 {
+        width: 80%;
+        height: auto;
+        position: relative;
+        margin: 100px auto 50px auto;
+    }
+
+    .img2 {
+        width: 90%;
+        height: auto;
+    }
+    
+    .meio button,
+    .rodape button{
+        background-color: #FF52BF;
+        border: none;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        box-shadow: 0 0px 4px #FF52BF;
+    }
+
+    .section-1 {
+        margin-bottom: 300px;
+    }
+
+    .meio1 {
+        width: 80%;
+    }
+
+        
+    .section-1 p {
+        text-align: center;
+        width: 80%;
+        margin: 20px auto;
+    }
+
+    .section-3 {
+        height: 350px;
+        width: 56%;
+        box-shadow: 0px 0px 10px #808D99;
+        margin: 200px auto;        
+        background-color: white;
+        text-align: center;
+        
+    }
+
+    .section-3 p {
+        font-size: 14px;
+    }
+
+    .section-2 h1{
+        text-align: left;
+    }
+    
+
+    .meio button {
+        width: 35%;
+        height: 40px;
+        font-size: 11px;
+    }
+
+    header button {
+        color: #9A52FF;
+        position: absolute;
+        right: 4em;
+        margin-top: 4em;
+        font-family: 'Open Sans', sans-serif;    
+        box-shadow: 0 0px 4px #9A52FF;
+        border: none;
+        width: 150px;
+    }
+    
+    .lista {        
+        /*height: 72px;*/
+        column-count: 2;
+        
+    }
+
+    .lista li {
+        margin-left: 30px;
+        line-height: 3;
+    }
+
+    .subscribe {
+        font-size: 20px;
+        text-transform: uppercase;
+        font-weight: 700;        
+    }
+
+    .testeando input {
+        width: 100%;
+        height: 40px;
+        margin: 8px 0;
+    }
+
+    .testeando button {
+        width: 50%;
+        height: 40px;
+        margin: 8px 0;
+        float: right;
+    }
+
+    .subsdiv {
+        padding-left: 80px;
+        padding-right: 80px;
+        margin-bottom: 150px;
+    }
+
+    .substext {
+        font-size: 14px;
+    }
+
+    .cpright {
+        font-size: 13px;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .social-media {
+        margin: 30px 0; 
+    }
+
+    .img-rdp {
+        padding-top: 75px;        
+    }
+
+    .img-rodape {
+        width: 12em;
+        margin: auto 0;
+    }
+
+    .rodape {
+        background-color: #00252E;
+        color: #F7F9FD;
+    }
+
+    ion-icon {
+        font-size: 40px;
+        padding-left: 10px;
+    }
+
+}

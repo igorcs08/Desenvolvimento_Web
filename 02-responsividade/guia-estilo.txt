@@ -1,0 +1,57 @@
+# Gui de estilo Front-end
+
+## Layout
+
+Os projetos foram criados para as larguras seguintes:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Cores
+
+O principal elemento decorativo no background da seção de introdução é um gradiente de rosa até violeta.
+
+### Primária.
+
+- Rosa: hsl(322, 100%, 66%)
+	rgb(255, 82, 191)
+	hex #FF52BF
+
+### Secundária
+
+- Violeta: 
+	hsl(265, 100%, 66%)
+	rgb(154, 82, 255)
+	hex #9A52FF
+	
+
+### Neutros
+
+- Light Grayish Blue: hsl(214, 64%, 98%), rgb(247, 249, 253), hex #F7F9FD
+- Mid Grayish Blue: hsl(208, 11%, 55%), rgb(128, 141, 153), hex #808D99
+- Very Dark Cyan: hsl(192, 100%, 9%), rgb(0, 37, 46), hex #00252E
+
+## Tipografia
+
+### Texto corpo
+
+- Font size: 18px
+
+### Títulos
+
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 400, 600, 700
+
+### Corpo, Chamadas a ações
+
+- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- Weights: 400, 700
+
+## Ícones
+
+Para os ícones das redes sociais, você pode usar uma biblioteca de ícones. Algumas sugestões:
+
+- [Font Awesome](https://fontawesome.com/)
+- [Iconic](https://useiconic.com/open/)
+- [IcoMoon](https://icomoon.io/)
+- [Ionicons](https://ionicons.com/)

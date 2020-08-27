@@ -1,0 +1,19 @@
+Uma das tarefas mais comuns que encontrará como desenvolvedor web front-end é pegar um arquivo photoshop de um cliente e torná-lo
+uma página HTML. Dependendo da complexidade do modelo, isso pode ser visto como uma tarefa difícil, mas com prática você tornará
+as coisas mais fáceis.
+
+Você transformará o index.html na página da Engine Labs. Tente corresponder ao máximo o que está definido no modelo Engine Labs 
+Home (.psd ou .jpg).
+
+Dicas:
+
+* Inicie a construção da página de cima para baixo.
+* Tente quebrar a página em seções verticalmente empilhadas (cabeçalho, hello, citações, características, etc.). Observe que cada 
+seção abrange a largura da página (100%) e possui uma subseção centralizada mais estreita (960 px) para onde o conteúdo é exibido.
+* Use classes de maneira eficaz: crie nomes de classes que descrevam a função de um elemento específico em vez de descrever o 
+conteúdo dentro dele. Criar classes funcionais permite que você estilize elementos rapidamente quando eles precisam atender a um 
+propósito comum.
+* Leia sobre posicionamento absoluto e flutuações.
+* Use um reset.css para a harmonia entre navegadores.
+* Tente isso sem usar um grid framework (bootstrap grid, css grid, css flexbox). Uma vez que você tenha certeza de codificar 
+manualmente isso, investigue uma estrutura de grade e veja quanto tempo ela economiza.

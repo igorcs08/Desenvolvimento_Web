@@ -1,0 +1,24 @@
+Página Huddle landing com elementos decorativos codificados
+
+![Design da página com os elementos decorativos](./design/desktop-preview.jpg)
+
+
+## Onde encontrar tudo.
+
+Sua tarefa é construir os designs que estão dentro da pasta '/design'. Você encontrará duas versões: mobile e desktop. 
+
+Os designs estão no formato JPG. Em jpg ajuda a treinar a vista para melhor julgar o tamanho da fonte, espaçamento e margem.
+
+Você encontrará todas as imagens necessárias na pasta 'images'.
+
+Há também o guia-estilo.txt, que contém informações sobre cores e fontes.
+
+## Construindo o projeto.
+## Fluxo sugerido.
+
+Processo sugerido:
+
+1) Olhe para os designs e planeje uma estratégia de ataque. Isso ajudará a pensar que classes CSS precisará para tornar as coisas mais reusáveis.
+2) Antes de adicionar qualquer estilo, estruture o HTML.
+3) Escreva os estilos base, que são gerais, como: font-family e font-size.
+4) Começe a adicionar os estilos, do topo da página para baixo. Somente vá para a próxima seção quando estiver satisfeito com a atual.

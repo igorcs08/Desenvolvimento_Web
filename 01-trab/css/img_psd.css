@@ -1,0 +1,259 @@
+.Footer {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 2250px;
+  z-index: 35;
+}
+.Footer_Text {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 2250px;
+  z-index: 34;
+}
+.col_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 2250px;
+  z-index: 33;
+}
+.ABOUT {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgb(255, 255, 255);
+  line-height: 2.1;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 217.568px;
+  top: 1993.76px;
+  z-index: 32;
+}
+.Overview_The_Team_History {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgba(237, 237, 237, 0.502);
+  line-height: 1.65;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 216.573px;
+  top: 2015.101px;
+  z-index: 31;
+}
+.col_2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 2250px;
+  z-index: 29;
+}
+.DEMOS {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgb(255, 255, 255);
+  line-height: 2.1;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 362.481px;
+  top: 1993.675px;
+  z-index: 28;
+}
+.Case_One_Case_Two_Case_Three {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgba(237, 237, 237, 0.502);
+  line-height: 1.65;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 359.675px;
+  top: 2016.175px;
+  z-index: 27;
+}
+.col_3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 2250px;
+  z-index: 25;
+}
+.API {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgb(255, 255, 255);
+  line-height: 2.1;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 526.094px;
+  top: 1993.76px;
+  z-index: 24;
+}
+.Overview_The_Team_History {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgba(237, 237, 237, 0.529);
+  line-height: 1.65;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 518.573px;
+  top: 2015.101px;
+  z-index: 23;
+}
+.col_4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 2250px;
+  z-index: 21;
+}
+.MEDIA {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgb(255, 255, 255);
+  line-height: 2.1;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 678.462px;
+  top: 1993.76px;
+  z-index: 20;
+}
+.Case_One_Case_Two_Case_Three_copy {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgba(237, 237, 237, 0.502);
+  line-height: 1.65;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 676.675px;
+  top: 2016.175px;
+  z-index: 19;
+}
+.col_5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 2250px;
+  z-index: 17;
+}
+.Case_One_Case_Two_Case_Three_copy_2 {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgba(237, 237, 237, 0.502);
+  line-height: 1.65;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 841.675px;
+  top: 2016.175px;
+  z-index: 16;
+}
+.ITEM_5 {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgb(255, 255, 255);
+  line-height: 2.1;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 845.051px;
+  top: 1993.76px;
+  z-index: 15;
+}
+.col_6 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 2250px;
+  z-index: 13;
+}
+.ITEM_6 {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgb(255, 255, 255);
+  line-height: 2.1;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 1008.551px;
+  top: 1993.76px;
+  z-index: 12;
+}
+.Case_One_Case_Two_Case_Three_copy_3 {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgba(237, 237, 237, 0.502);
+  line-height: 1.65;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 1005.675px;
+  top: 2016.175px;
+  z-index: 11;
+}
+.Copyright_2013_General_Assembly__Some_Rights_Re {
+  font-size: 20px;
+  font-family: "SourceSansPro";
+  color: rgba(237, 237, 237, 0.2);
+  line-height: 1.65;
+  -moz-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -webkit-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  -ms-transform: matrix( 0.7988580624106,0,0,0.80840775645137,0,0);
+  position: absolute;
+  left: 177.264px;
+  top: 2244.147px;
+  z-index: 9;
+}
+.Footer_BG {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 2250px;
+  z-index: 7;
+}
+.Blue_BG {
+  background-image: url("Blue BG.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1300px;
+  height: 2250px;
+  z-index: 6;
+}
+.Pattern_BG {
+  background-image: url("Pattern BG.png");
+  position: absolute;
+  left: 0px;
+  top: 1893px;
+  width: 1300px;
+  height: 357px;
+  z-index: 5;
+}
